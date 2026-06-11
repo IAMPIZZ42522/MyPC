@@ -5,3 +5,4 @@ ASUS Prime B450 Plus
 Gamdias KRATOS M1-600B
 AMD Wraith Stealth Cooler
 MSI MAG 244F
+Lexar 2TB NM620 M.2 2280
