@@ -1,8 +1,8 @@
-AMD Ryzen 7 3700X
+AMD Ryzen 5 5600
 XFX Speedster Qick 308 Radeon RX 6600 XT
 HP V8 RGB 16GB 2 x 8GB DDR4 3200mHz CL16
-ASUS Prime B450 Plus
-Gamdias KRATOS M1-600B
+MSI Pro B550M-VC WiFi
+Corsair CX650
 Deepcool Gammaxx GTE V2
 MSI MAG 244F
 Lexar 2TB NM620 M.2 2280
